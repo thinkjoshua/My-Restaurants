@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/joshm/AndroidStudioProjects/MyRestaurants2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/joshm/AndroidStudioProjects/MyRestaurants2/app/src/main/res/drawable/myrestaurant.xml" value="0.1" />
-        <entry key="..\:/Users/joshm/AndroidStudioProjects/MyRestaurants2/app/src/main/res/layout/activity_main.xml" value="0.3487833140208575" />
+        <entry key="..\:/Users/joshm/AndroidStudioProjects/MyRestaurants2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/joshm/AndroidStudioProjects/MyRestaurants2/app/src/main/res/layout/activity_restaurants.xml" value="0.1" />
+        <entry key="..\:/Users/joshm/AndroidStudioProjects/MyRestaurants2/app/src/main/res/layout/restaurant.xml" value="0.18984375" />
       </map>
     </option>
   </component>
